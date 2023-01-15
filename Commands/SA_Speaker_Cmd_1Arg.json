@@ -1,0 +1,10 @@
+{  
+    "sprich lauter" : [self.increaseSpeechVolume, _not],
+    "sprich leiser" : [self.decreaseSpeechVolume, _after],
+    "sprich schneller" : [self.increaseSpeechRate, _not],
+    "sprich langsamer" : [self.decreaseSpeechRate, _not],
+    "sprich langsam" : [self.speakSlowly, _after],
+    "sprich normal" : [self.speakNormally, _after],
+    "sprich schnell" : [self.speakFast, _after],
+    "schalte dich stumm" : [self.mute, _not]
+}

@@ -1,0 +1,39 @@
+Friday:
+ Sehr gerne.
+
+Eingabe:
+ schreibe den dialog in die datei
+
+Friday:
+ Wie du wünscht.
+
+Eingabe:
+ sag hallo
+
+Friday:
+ hallo
+
+Eingabe:
+ schreibe den dialog in das terminal
+
+Friday:
+ Selbstverständlich.
+
+Eingabe:
+ schreibe den dialog in das fenster
+
+Friday:
+ Gerne.
+
+Eingabe:
+ sag hallo
+
+Friday:
+ hallo
+
+Eingabe:
+ schalte dich ab
+
+Friday:
+ Ich werde mich jetzt abschalten. 
+ Auf Wiedersehen.
